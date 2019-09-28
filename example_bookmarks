@@ -1,0 +1,127 @@
+{
+   "checksum": "b7c7eb9479242f04ac121641bb0b8dbb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13213721410002752",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13213721410002895"
+            },
+            "name": "Wykop.pl - newsy, aktualności, gry, wiadomości, muzyka, ciekawostki, filmiki",
+            "type": "url",
+            "url": "https://www.wykop3434.pl/"
+         }, {
+            "date_added": "13213721416050947",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13213721416051162"
+            },
+            "name": "Interia - Polska i świat: informacje, sport, gwiazdy.",
+            "type": "url",
+            "url": "https://www.interia.pl/"
+         }, {
+            "children": [ {
+               "date_added": "13213721421627561",
+               "id": "7",
+               "meta_info": {
+                  "last_visited_desktop": "13213721421627668"
+               },
+               "name": "Onet – Jesteś na bieżąco",
+               "type": "url",
+               "url": "https://www.onet.pl/"
+            }, {
+               "date_added": "13213721466797933",
+               "id": "9",
+               "meta_info": {
+                  "last_visited_desktop": "13213721466798042"
+               },
+               "name": "Mistrzowie.org",
+               "type": "url",
+               "url": "https://mistrzowie.org/"
+            }, {
+               "date_added": "13213721480728080",
+               "id": "10",
+               "meta_info": {
+                  "last_visited_desktop": "13213721480728209"
+               },
+               "name": "Tibia - Free Multiplayer Online Role Playing Game - Account",
+               "type": "url",
+               "url": "https://www.tibia.com/account/"
+            }, {
+               "date_added": "13213721490859847",
+               "id": "11",
+               "meta_info": {
+                  "last_visited_desktop": "13213721490868772"
+               },
+               "name": "-- Niebezpiecznik.pl --",
+               "type": "url",
+               "url": "https://niebezpiecznik.pl/"
+            }, {
+               "date_added": "13213721499849712",
+               "id": "12",
+               "meta_info": {
+                  "last_visited_desktop": "13213721499849838"
+               },
+               "name": "Sekurak - piszemy o bezpieczeństwie",
+               "type": "url",
+               "url": "https://sekurak.pl/"
+            }, {
+               "date_added": "13213721514635081",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13213721514635233"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            } ],
+            "date_added": "13213721458820934",
+            "date_modified": "13213721531643596",
+            "id": "8",
+            "name": "nowy_folder",
+            "type": "folder"
+         }, {
+            "date_added": "13213721531643596",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13213721531644099"
+            },
+            "name": "Microsoft — oficjalna strona główna",
+            "type": "url",
+            "url": "https://www.microsofy666t.com/pl-pl/"
+         } ],
+         "date_added": "13213721370829795",
+         "date_modified": "13213721547638574",
+         "id": "1",
+         "name": "Pasek zakładek",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13213721547638574",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13213721547638712"
+            },
+            "name": "Serwis dla programistów:: 4programmers.net",
+            "type": "url",
+            "url": "https://4programmers.net/755757"
+         } ],
+         "date_added": "13213721370829825",
+         "date_modified": "13213721554530281",
+         "id": "2",
+         "name": "Inne zakładki",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13213721370829830",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Zakładki na komórce",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
